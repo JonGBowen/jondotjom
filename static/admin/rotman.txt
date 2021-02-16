@@ -1,0 +1,58 @@
+// Background
+
+I am a third-year PhD student in the philosophy program at Western University studying under Dr. Michael Anderson. I also am a member of the EMRG Lab, where I develop VR experiments, lead a research project on unified behaviour in split brain subjects, and participate in an ecological social psychology research group. Before that I received my MA in philosophy from Western University, and a combined BSc in psychology and computer science from the University of Victoria.
+
+I'm interested in developing new ways of thinking about what psychological beings are. My strategy is to draw on eclectic, often neglected historical theoretical works (principally from the American pragmatists, functionalists, and ecological psychologists) and see if they can be used to make sense of empirical phenomena that have resisted explanation (such as spontaneous compensatory behaviour in split brain subjects and the persistence of voluntary and habitual phantom limb movements). I also interested in the ethics of “person-building” projects in artificial intelligence. While there has been much discussion of the potential consequences and societal impacts of artificial intelligence, not much attention has been paid to the ethical status of the pursuit itself. Are there good reasons to create artificial persons? Are there good reasons not to? I am interested in intrinsic reasons for or against this endeavour, as opposed to instrumental ones.
+
+// Research
+
+When we see other people or animals behaving, we cannot help but see their movements as purposive. We don’t just see movements, but attempts-to and strivings-towards. Furthermore, we do not merely see that their behaviours are purposive, but we can often see with acuity what those goals are. It is crucial that we do—consider the case of other people (Is that person moving towards me with hostile or friendly intent? What did they mean by that wink? ) The question is: How do we predict what others will do, and understand why they do it? This is the problem of mindreading. 
+
+Beginning with their 1955 paper “Perceptual Learning: Elaboration or Differentiation?” James and Eleanor Gibson began to develop a radically divergent theory of perception. In this paper, they contrasted two approaches to perception. Enrichment theories state that perception is a matter of receiving some impoverished stimulus—say, patches of light transduced to a pair of retinal image streams—and then adding to, modifying, or interpreting it with the use of concepts, schemas, unconscious inferences, or some other elaborative mental process. Differentiation theories, on the other hand, assume that all of the richness in perception is out there in the world, and the job of a perceptual system is to tune itself to this pre-existing richness. 
+
+According to this distinction, it is clear that dominant approaches to mindreading have all been enrichment theories. The most prominent approach to this problem—the Theory Theory of Mindreading—has it that we all possess a theory of what people are like and how they work. When we see people acting, we apply this theory and infer others’ mental states. Another prominent approach has it that when we see others behaving, we simulate their minds using our own as the model. This is the Simulation Theory of Mindreading. 
+
+My work extends this Gibsonian differentiation theory of perception into the domain of social psychology. I will develop an alternative Gibsonian account of mindreading. This approach will be given in three parts. First, rather than identify goals and intentions with unobservable mental processes, it will define them in terms of real, directly observable regularities in peoples’ behaviour. For instance, if someone is really trying to get your attention, they will persist in their attempts, despite failures. They will also be flexible in their attempts, meaning they may try to get your attention by different means. They will also be economical, tending to choose the easier and less effortful means first. 
+Second, I will describe the information available to the perceiving animal which specifies these goals. We often are able to see what people are trying to do on the basis of just a brief glimpse. I will address, in a general way, this question: how much information is enough to specify the presence of goals in another’s behaviour? Third, I will describe the ways in which we tune ourselves to this information. In what ways do we seek out, explore, and attend to this information? One merit of this approach is that it would give us a way to probe what others are trying to do by telling us explicitly what to look for in their behaviour. This applies to humans, but it could also be applied to nonhuman animals, and even artificial beings like robots. 
+
+One motivation for this philosophical project is to offer a theoretical framework for doing empirical work in ecological social psychology—a discipline that is just beginning to emerge. It could also help us develop assistive technologies that can detect our goals and help us achieve them.
+
+// Presentations
+
+(2020). A Gibsonian Approach to Purposive Behaviour. Annual Meeting of the Society for Philosophy and Psychology, Princeton NJ, United States (Postponed due to Covid)
+
+(2019). How is Sophistry Possible? 13th Annual Western Michigan University Graduate Student
+Philosophy Conference, Kalamazoo MI, United States
+
+(2019). Towards Gibsonian Mindreading. The Expression, Communication, and Origins of
+Meaning Research Group’s Inaugural Graduate Conference, Storrs CT, United States
+
+(2019) Enactivism, Pragmatism... Behaviourism?. Rotman Dialogue with Louise
+Barrett, London, Canada. With Madeleine Broadbeck.
+
+(2019). Embodiment and the Split-Brain: an Enactive Unity. Annual Meeting of the Association for the Scientific Study of Consciousness, London, Canada. With Michael Anderson.
+
+(2019). Thou, Robot. Annual Meeting of the Canadian Philosophical Association, Vancouver, Canada.
+
+(2019). Person-Building Projects. Arts and Humanities Research Fair, London, Canada
+
+(2019). Non-Instrumental Reasons for Creating Artificial Persons. Canada-United Kingdom Symposium On Ethics In Artificial Intelligence (EIAI2019), Ottawa, Canada (Poster presentation.)
+
+(2016). Training Facial Expression Production and Perception. Perceptual Expertise Network XXXI Workshop, New Orleans LA, United States
+
+
+// Teaching
+Philosophy 3450F: Philosophy of Neuroscience (Fall 2020)
+
+Philosophy 2078G: Ethics for a Digital World (Fall 2019)
+
+Philosophy 1020: Introduction to Philosophy (Fall 2018-Winter 2019) (Nominated for the Graduate Teaching Assistant Award of Excellence)
+
+
+
+
+// ignore this
+
+In their 1955 paper, James and Eleanor Gibson contrast two approaches to perceptual learning (and to perception in general): enrichment theories have it that perception starts with some impoverished stimulus, like a pair of retinal image streams in the case of vision. Retinal images are 2D, but we see the world in 3D; they are also mere grids of pixel data, whereas we see a world of meaningful objects and events. What explains the difference? On these enrichment views, something mental needs to be added to the bare, punctate data of the senses and that amounts to a kind of mental enrichment by concepts, schema, inferences, and the like. In contrast, differentiation theories have it that all of the richness and specificity of perception is /out there in the world/. The job of the perceptual system, then, is to /tune/ itself to the specific features of the world, and it does this by becoming sensitive to information that it can actively pick up. There only needs to be some medium that conveys structured information which specifies the presence of these specific meaningful aspects of the world (through ambient light, or perhaps pressure waves or chemical gradients), and some organ in the perceptual system of the organism that is sensitive to that structured energy.
+
+This is and was a revolutionary idea about perceptual systems. But perception is just one functional capacity of an organism. How do we understand the way that perceptual systems, conceived in the latter manner, work in the vital economy of organisms with other overlapping and coordinating functions, such as motor, cognitive, algedonic functions? To answer this question is to pick up a task left by functionalist psychology in its eclipse roughly 100 years ago. 
